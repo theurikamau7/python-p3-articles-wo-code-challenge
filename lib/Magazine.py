@@ -1,5 +1,5 @@
 class Magazine:
-    all_magazines = []    #for storing all the instances of the magazines
+    all_magazines = []
     
     def __init__(self, name, category):
         self._name = name
